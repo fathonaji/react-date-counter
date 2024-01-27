@@ -1,0 +1,16 @@
+.d-flex {
+  display: flex;
+  align-self: center;
+}
+.w-100 {
+  width: 100%!;
+}
+.center {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.mt-1 {
+  margin-top: 1rem;
+}
